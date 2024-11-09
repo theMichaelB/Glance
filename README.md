@@ -1,5 +1,7 @@
 # Glance
 
+![Glance Logo](docs/glance.jpg)
+
 ## Overview
 
 **Glance** is a Golang-based web application created to facilitate learning and development of DevOps skills. The initial version of Glance serves as a simple dashboard that displays essential information about the host system it is running on. As the project evolves, Glance will incorporate additional microservices, databases, caching layers, and comprehensive observability features to emulate a typical enterprise environment.
